@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1096856928207-vc4dtds93dt870t4g7t1rsahjk2il289.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://rutix-48255.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1096856928207</string>
+    <string name="google_api_key" translatable="false">AIzaSyCPGx4lVNxmM9IDzIw61dWLzFrwk1gOWvE</string>
+    <string name="google_app_id" translatable="false">1:1096856928207:android:ba922d6758eef9dd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCPGx4lVNxmM9IDzIw61dWLzFrwk1gOWvE</string>
+    <string name="google_storage_bucket" translatable="false">rutix-48255.appspot.com</string>
+    <string name="project_id" translatable="false">rutix-48255</string>
+</resources>

@@ -1,0 +1,53 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Mapa">
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:map="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="mrtrujis.Rutix.Mapa" />
+
+    <Button
+        android:id="@+id/buttonCalif"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="calificar"
+        android:onClick="calificar"/>
+
+    <TextView
+        android:id="@+id/tvLatitud"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Latittud"/>
+
+    <TextView
+        android:id="@+id/tvLatitudVal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Valor de Latitud"
+        android:layout_below="@id/tvLatitud"/>
+
+    <TextView
+        android:id="@+id/tvLongitud"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Longitud"
+        android:layout_below="@+id/tvLatitud"
+        android:layout_marginTop="30dp"/>
+
+    <TextView
+        android:id="@+id/tvLongitudVal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Valor de Longitud"
+        android:layout_below="@+id/tvLongitud"
+        />
+
+</FrameLayout>
+

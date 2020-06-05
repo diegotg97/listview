@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RutiX</string>
+    <string name="title_activity_mapa">Mapa</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="coords">
+        <item>25.71696837561858, -100.3730818056174</item>
+        <item>25.71844112537636,-100.3732571678804</item>
+        <item>25.71839072023973,-100.3737683369186</item>
+        <item>25.72027912466891,-100.3740362427281</item>
+        <item>25.720261155638,-100.3735090825213</item>
+    </string-array>
+    <string name="title_activity_mapa_dos">MapaDos</string>
+    <string name="facebook_app_id">682292165295355</string>
+</resources>

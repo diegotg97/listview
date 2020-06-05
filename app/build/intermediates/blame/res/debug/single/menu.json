@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\listview\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\listview\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\listview\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_mapa.xml",
+        "source": "C:\\listview\\app\\src\\main\\res\\menu\\menu_mapa.xml"
+    },
+    {
+        "merged": "C:\\listview\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_mapa_dos.xml",
+        "source": "C:\\listview\\app\\src\\main\\res\\menu\\menu_mapa_dos.xml"
+    }
+]

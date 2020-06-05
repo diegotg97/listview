@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1096856928207",
+    "firebase_url": "https://rutix-48255.firebaseio.com",
+    "project_id": "rutix-48255",
+    "storage_bucket": "rutix-48255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096856928207:android:ba922d6758eef9dd",
+        "android_client_info": {
+          "package_name": "mrtrujis.Rutix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096856928207-vc4dtds93dt870t4g7t1rsahjk2il289.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPGx4lVNxmM9IDzIw61dWLzFrwk1gOWvE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

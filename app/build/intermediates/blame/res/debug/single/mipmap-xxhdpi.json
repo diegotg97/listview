@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\listview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\listview\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\listview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\rutixtab2.png",
+        "source": "C:\\listview\\app\\src\\main\\res\\mipmap-xxhdpi\\rutixtab2.png"
+    },
+    {
+        "merged": "C:\\listview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\rutixtab3.png",
+        "source": "C:\\listview\\app\\src\\main\\res\\mipmap-xxhdpi\\rutixtab3.png"
+    },
+    {
+        "merged": "C:\\listview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\rutixs.png",
+        "source": "C:\\listview\\app\\src\\main\\res\\mipmap-xxhdpi\\rutixs.png"
+    },
+    {
+        "merged": "C:\\listview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\logoo.png",
+        "source": "C:\\listview\\app\\src\\main\\res\\mipmap-xxhdpi\\logoo.png"
+    },
+    {
+        "merged": "C:\\listview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\bustopp.png",
+        "source": "C:\\listview\\app\\src\\main\\res\\mipmap-xxhdpi\\bustopp.png"
+    }
+]

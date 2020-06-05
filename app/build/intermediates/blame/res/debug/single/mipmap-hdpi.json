@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\listview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\rutixx.png",
+        "source": "C:\\listview\\app\\src\\main\\res\\mipmap-hdpi\\rutixx.png"
+    },
+    {
+        "merged": "C:\\listview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\listview\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\listview\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\rutixxx.png",
+        "source": "C:\\listview\\app\\src\\main\\res\\mipmap-hdpi\\rutixxx.png"
+    }
+]
